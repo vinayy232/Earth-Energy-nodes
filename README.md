@@ -6,7 +6,7 @@ Master code:
 0x026 - ID of Ignition node
 0x036 - Id of Aux node
 
-Ignition node - complete msg0 and only starting two bits are useful, rest bit can be used for future purpose.
+Ignition node - complete msg0 and only starting two bitsof msg1 are useful, rest bit can be used for future purpose.
 	Only 5 Inputs and 4 output can be Interfaced
 	Bits Defination:
 		11- Manual control
